@@ -1,2 +1,2 @@
 # test-dockerhub
-build and push the docker image on a dockerhub
+build a docker image for hello world python application and push the it on a dockerhub.
